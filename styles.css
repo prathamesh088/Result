@@ -1,0 +1,4308 @@
+<style>
+    .style-0 {
+        font-family: &quot;
+        Times New Roman&quot;
+        ,
+        Times,
+        serif;
+        position: relative !important;
+        position: relative;
+        height: auto;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-1 {
+        text-align: center;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-2 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-3 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-4 {
+        height: 100px;
+        width: 220px;
+        width: 220px;
+        border-style: none;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-5 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-6 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-7 {
+        font-weight: bold;
+        text-align: center;
+        color: black;
+        text-align: center;
+        color: rgb(0, 0, 0);
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-8 {
+        font-size: 18px;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-9 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-10 {
+        font-size: 25px;
+        color: rgb(163, 0, 0);
+        color: rgb(163, 0, 0);
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-11 {
+        font-weight: 900;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-12 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-13 {
+        font-size: 15px;
+        color: rgb(163, 0, 0);
+        color: rgb(163, 0, 0);
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-14 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-15 {
+        font-size: 15px;
+        color: rgb(163, 0, 0);
+        color: rgb(163, 0, 0);
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-16 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-17 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-18 {
+        height: 100px;
+        width: 100px;
+        width: 100px;
+        border-style: none;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-19 {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        height: 4px !important;
+        background: rgb(163, 0, 0) !important;
+        margin-bottom: 0px;
+        height: 4px;
+        background: rgb(163, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+        overflow: visible;
+        padding: 0px;
+        background-repeat: repeat;
+        box-sizing: border-box;
+    }
+
+    .style-20 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-21 {
+        font-weight: 700;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-22 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-23 {
+        color: black;
+        font-size: larger;
+        padding: 5px;
+        font-size: 19.2px;
+        padding: 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-24 {
+        font-weight: 900;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-25 {
+        width: 100%;
+        margin-top: 0px;
+        margin-top: 0px;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-26 {
+        width: 100%;
+        margin: 15px 0px 0px;
+        border: 1px solid black;
+        border-collapse: collapse;
+        margin: 15px 0px 0px;
+        border: 1px solid rgb(0, 0, 0);
+        border-collapse: collapse;
+        padding: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-27 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-28 {
+        vertical-align: top;
+        width: 25% !important;
+        padding-left: 5px;
+        width: 25% !important;
+        padding-left: 5px;
+        padding: 0px 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-29 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-30 {
+        vertical-align: top;
+        width: 25% !important;
+        padding-left: 5px;
+        width: 25% !important;
+        padding-left: 5px;
+        padding: 0px 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-31 {
+        font-family: 'Times New Roman';
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-32 {
+        font-weight: 700;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-33 {
+        vertical-align: top;
+        width: 25% !important;
+        padding-left: 5px;
+        width: 25% !important;
+        padding-left: 5px;
+        padding: 0px 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-34 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-35 {
+        vertical-align: top;
+        width: 25% !important;
+        padding-left: 5px;
+        width: 25% !important;
+        padding-left: 5px;
+        padding: 0px 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-36 {
+        font-family: 'Times New Roman';
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-37 {
+        font-weight: 700;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-38 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-39 {
+        vertical-align: top;
+        width: 25% !important;
+        padding-left: 5px;
+        width: 25% !important;
+        padding-left: 5px;
+        padding: 0px 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-40 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-41 {
+        vertical-align: top;
+        width: 25% !important;
+        padding-left: 5px;
+        width: 25% !important;
+        padding-left: 5px;
+        padding: 0px 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-42 {
+        font-family: 'Times New Roman';
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-43 {
+        font-weight: 700;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-44 {
+        vertical-align: top;
+        width: 25% !important;
+        padding-left: 5px;
+        width: 25% !important;
+        padding-left: 5px;
+        padding: 0px 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-45 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-46 {
+        vertical-align: top;
+        width: 25% !important;
+        padding-left: 5px;
+        width: 25% !important;
+        padding-left: 5px;
+        padding: 0px 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-47 {
+        font-family: 'Times New Roman';
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-48 {
+        font-weight: 700;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-49 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-50 {
+        vertical-align: top;
+        width: 25% !important;
+        padding-left: 5px;
+        width: 25% !important;
+        padding-left: 5px;
+        padding: 0px 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-51 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-52 {
+        vertical-align: top;
+        width: 25% !important;
+        padding-left: 5px;
+        width: 25% !important;
+        padding-left: 5px;
+        padding: 0px 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-53 {
+        font-family: 'Times New Roman';
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-54 {
+        font-weight: 700;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-55 {
+        vertical-align: top;
+        width: 25% !important;
+        padding-left: 5px;
+        width: 25% !important;
+        padding-left: 5px;
+        padding: 0px 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-56 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-57 {
+        vertical-align: top;
+        width: 25% !important;
+        padding-left: 5px;
+        width: 25% !important;
+        padding-left: 5px;
+        padding: 0px 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-58 {
+        font-family: 'Times New Roman';
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-59 {
+        font-weight: 700;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-60 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-61 {
+        vertical-align: top;
+        width: 25% !important;
+        padding-left: 5px;
+        width: 25% !important;
+        padding-left: 5px;
+        padding: 0px 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-62 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-63 {
+        vertical-align: top;
+        width: 25% !important;
+        padding-left: 5px;
+        width: 25% !important;
+        padding-left: 5px;
+        padding: 0px 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-64 {
+        font-family: 'Times New Roman';
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-65 {
+        font-weight: 700;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-66 {
+        vertical-align: top;
+        width: 25% !important;
+        padding-left: 5px;
+        width: 25% !important;
+        padding-left: 5px;
+        padding: 0px 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-67 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-68 {
+        vertical-align: top;
+        width: 25% !important;
+        padding-left: 5px;
+        width: 25% !important;
+        padding-left: 5px;
+        padding: 0px 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-69 {
+        font-family: 'Times New Roman';
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-70 {
+        font-weight: 700;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-71 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-72 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-73 {
+        width: 100%;
+        border: 1px solid black;
+        border-collapse: collapse;
+        border: 1px solid rgb(0, 0, 0);
+        border-collapse: collapse;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-74 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-75 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-76 {
+        text-align: center;
+        padding-top: 7px;
+        padding-bottom: 7px;
+        padding-left: 5px;
+        padding-top: 7px;
+        padding-bottom: 7px;
+        padding-left: 5px;
+        padding: 7px 0px 7px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-77 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-78 {
+        text-align: center;
+        padding-top: 7px;
+        padding-bottom: 7px;
+        padding-left: 5px;
+        padding-top: 7px;
+        padding-bottom: 7px;
+        padding-left: 5px;
+        padding: 7px 0px 7px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-79 {
+        text-align: center;
+        padding-top: 7px;
+        padding-bottom: 7px;
+        padding-left: 5px;
+        padding-top: 7px;
+        padding-bottom: 7px;
+        padding-left: 5px;
+        padding: 7px 0px 7px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-80 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-81 {
+        text-align: center;
+        padding-top: 7px;
+        padding-bottom: 7px;
+        padding-left: 5px;
+        padding-top: 7px;
+        padding-bottom: 7px;
+        padding-left: 5px;
+        padding: 7px 0px 7px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-82 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-83 {
+        text-align: center;
+        padding-top: 7px;
+        padding-bottom: 7px;
+        padding-left: 5px;
+        padding-top: 7px;
+        padding-bottom: 7px;
+        padding-left: 5px;
+        padding: 7px 0px 7px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-84 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-85 {
+        text-align: center;
+        padding-top: 7px;
+        padding-bottom: 7px;
+        padding-left: 5px;
+        padding-top: 7px;
+        padding-bottom: 7px;
+        padding-left: 5px;
+        padding: 7px 0px 7px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-86 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-87 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-88 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-89 {
+        text-align: left;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-90 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-91 {
+        text-transform: uppercase;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-92 {
+        text-transform: uppercase;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-93 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-94 {
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-left: 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-95 {
+        width: 100%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-96 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-97 {
+        width: 20%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-98 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-99 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-100 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-101 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-102 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-103 {
+        text-transform: uppercase;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-104 {
+        text-transform: uppercase;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-105 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-106 {
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-left: 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-107 {
+        width: 100%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-108 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-109 {
+        width: 20%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-110 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-111 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-112 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-113 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-114 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-115 {
+        text-transform: uppercase;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-116 {
+        text-transform: uppercase;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-117 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-118 {
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-left: 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-119 {
+        width: 100%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-120 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-121 {
+        width: 20%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-122 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-123 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-124 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-125 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-126 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-127 {
+        text-transform: uppercase;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-128 {
+        text-transform: uppercase;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-129 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-130 {
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-left: 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-131 {
+        width: 100%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-132 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-133 {
+        width: 20%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-134 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-135 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-136 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-137 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-138 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-139 {
+        text-transform: uppercase;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-140 {
+        text-transform: uppercase;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-141 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-142 {
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-left: 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-143 {
+        width: 100%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-144 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-145 {
+        width: 20%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-146 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-147 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-148 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-149 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-150 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-151 {
+        text-transform: uppercase;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-152 {
+        text-transform: uppercase;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-153 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-154 {
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-left: 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-155 {
+        width: 100%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-156 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-157 {
+        width: 20%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-158 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-159 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-160 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-161 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-162 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-163 {
+        text-transform: uppercase;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-164 {
+        text-transform: uppercase;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-165 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-166 {
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-left: 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-167 {
+        width: 100%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-168 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-169 {
+        width: 20%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-170 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-171 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-172 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-173 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-174 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-175 {
+        text-transform: uppercase;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-176 {
+        text-transform: uppercase;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-177 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-178 {
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-left: 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-179 {
+        width: 100%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-180 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-181 {
+        width: 20%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-182 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-183 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-184 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-185 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-186 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-187 {
+        text-align: left;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-188 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-189 {
+        text-transform: uppercase;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-190 {
+        text-transform: uppercase;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-191 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-192 {
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-left: 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-193 {
+        width: 100%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-194 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-195 {
+        width: 20%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-196 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-197 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-198 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-199 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-200 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-201 {
+        text-transform: uppercase;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-202 {
+        text-transform: uppercase;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-203 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-204 {
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-left: 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-205 {
+        width: 100%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-206 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-207 {
+        width: 20%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-208 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-209 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-210 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-211 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-212 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-213 {
+        text-transform: uppercase;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-214 {
+        text-transform: uppercase;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-215 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-216 {
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-left: 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-217 {
+        width: 100%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-218 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-219 {
+        width: 20%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-220 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-221 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-222 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-223 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-224 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-225 {
+        text-transform: uppercase;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-226 {
+        text-transform: uppercase;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-227 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-228 {
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-left: 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-229 {
+        width: 100%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-230 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-231 {
+        width: 20%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-232 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-233 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-234 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-235 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-236 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-237 {
+        text-transform: uppercase;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-238 {
+        text-transform: uppercase;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-239 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-240 {
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-left: 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-241 {
+        width: 100%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-242 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-243 {
+        width: 20%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-244 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-245 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-246 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-247 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-248 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-249 {
+        text-transform: uppercase;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-250 {
+        text-transform: uppercase;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-251 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-252 {
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-left: 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-253 {
+        width: 100%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-254 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-255 {
+        width: 20%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-256 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-257 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-258 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-259 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-260 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-261 {
+        text-transform: uppercase;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-262 {
+        text-transform: uppercase;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-263 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-264 {
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-left: 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-265 {
+        width: 100%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-266 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-267 {
+        width: 20%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-268 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-269 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-270 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-271 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-272 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-273 {
+        text-transform: uppercase;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-274 {
+        text-transform: uppercase;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        text-align: left;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-275 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding: 0px 0px 5px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-276 {
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-left: 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-277 {
+        width: 100%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-278 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-279 {
+        width: 20%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-280 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-281 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-282 {
+        text-align: center;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        padding: 0px 0px 5px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-283 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-284 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-285 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-286 {
+        width: 100%;
+        border: 1px solid black;
+        border-collapse: collapse;
+        text-align: center;
+        border: 1px solid rgb(0, 0, 0);
+        border-collapse: collapse;
+        text-align: center;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-287 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-288 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-289 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-290 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-291 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-292 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-293 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-294 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-295 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-296 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-297 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-298 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-299 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-300 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-301 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-302 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-303 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-304 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-305 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-306 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-307 {
+        width: 8%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-308 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-309 {
+        width: 8%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-310 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-311 {
+        width: 8%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-312 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-313 {
+        width: 8%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-314 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-315 {
+        width: 8%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-316 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-317 {
+        width: 8%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-318 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-319 {
+        width: 8%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-320 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-321 {
+        width: 8%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-322 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-323 {
+        width: 8%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-324 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-325 {
+        width: 8%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-326 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-327 {
+        width: 8%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-328 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-329 {
+        width: 8%;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-330 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-331 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-332 {
+        float: left;
+        padding-left: 0px;
+        padding-left: 0px;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-333 {
+        font-weight: 700;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-334 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-335 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-336 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-337 {
+        font-weight: 700;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-338 {
+        width: 100%;
+        height: 70px;
+        display: block;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-339 {
+        float: left;
+        display: inline-block;
+        padding-left: 0px;
+        margin-right: 30%;
+        display: block;
+        padding-left: 0px;
+        margin-right: 250.797px;
+        padding: 0px;
+        margin: 0px 250.797px 0px 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-340 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-341 {
+        position: absolute;
+        left: 0mm !important;
+        top: 250mm !important;
+        left: 0px;
+        top: 944.882px;
+        display: none;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-342 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-343 {
+        display: block;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-344 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-345 {
+        font-weight: 700;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-346 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-347 {
+        width: 100%;
+        border-collapse: collapse;
+        border-collapse: collapse;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-348 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-349 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 20px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 20px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-350 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 20px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 20px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-351 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 20px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 20px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-352 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 20px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 20px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-353 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 20px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 20px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-354 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 20px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 20px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-355 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 20px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 20px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-356 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 20px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 20px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-357 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 20px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 20px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-358 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 20px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 20px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-359 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-360 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 20px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 20px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-361 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 20px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 20px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-362 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 20px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 20px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-363 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 20px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 20px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-364 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 20px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 20px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-365 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 20px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 20px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-366 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 20px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 20px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-367 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 20px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 20px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-368 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 20px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 20px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-369 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 20px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 20px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-370 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-371 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 20px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 20px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-372 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 20px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 20px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-373 {
+        position: absolute;
+        left: 0mm !important;
+        top: 260mm !important;
+        left: 0px;
+        top: 944.882px;
+        display: none;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-374 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-375 {
+        font-weight: 700;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-376 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-377 {
+        width: 100%;
+        border-collapse: collapse;
+        position: absolute;
+        left: 0px;
+        top: 944.882px;
+        display: none;
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-378 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-379 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 80px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 80px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-380 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 80px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 80px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-381 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 80px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 80px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-382 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 80px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 80px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-383 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 80px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 80px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-384 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 80px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 80px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-385 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 80px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 80px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-386 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 80px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 80px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-387 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 80px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 80px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-388 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 80px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 80px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-389 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-390 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 80px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 80px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-391 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 80px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 80px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-392 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 80px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 80px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-393 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 80px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 80px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-394 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 80px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 80px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-395 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 80px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 80px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-396 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 80px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 80px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-397 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 80px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 80px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-398 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 80px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 80px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-399 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 80px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 80px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-400 {
+        padding: 0px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-401 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 80px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 80px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+
+    .style-402 {
+        text-align: center;
+        padding: 2px;
+        border: 1px solid black;
+        width: 80px;
+        padding: 2px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 80px;
+        margin: 0px;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+    }
+</style>
+<div class="style-0">
+    <table width="100%" class="style-1">
+        <tr class="style-2">
+            <td width="10%" class="style-3"><img src="https://pccoebucket.s3.ap-south-1.amazonaws.com/logo/PCU+.png" class="style-4" /></td>
+            <td width="85%" class="style-5">
+                <div class="style-6">
+                    <p class="style-7"><span class="style-8">Pimpri Chinchwad Education Trust's</span><br class="style-9" /><span class="style-10"><strong class="style-11">Pimpri Chinchwad University, Pune</strong></span><br class="style-12" /><span class="style-13">Legacy Of Nurturing Excellence Since 1990</span><br class="style-14" /><span class="style-15">(Established under Govt. of Maharashtra Act No.V of 2023)</span><br class="style-16" /></p>
+                </div>
+            </td>
+            <td width="5%" class="style-17"><img src="https://pccoebucket.s3.ap-south-1.amazonaws.com/logo/PCET.png" class="style-18" /></td>
+        </tr>
+    </table>
+    <hr class="style-19" /><br class="style-20" /><b class="style-21">
+        <center class="style-22"><span class="style-23"><b class="style-24">GRADE CARD</b></span></center>
+    </b>
+    <div class="style-25">
+        <table border="1" class="style-26">
+            <tr class="style-27">
+                <td class="style-28"><label class="style-29">Name of School </label></td>
+                <td class="style-30"><label class="style-31"><b class="style-32">PCU SCHOOL OF ENGINEERING &amp; TECHNOLOGY</b></label></td>
+                <td class="style-33"><label class="style-34">Month and Year of Examination</label></td>
+                <td class="style-35"><label class="style-36"><b class="style-37">Jun 2024</b></label></td>
+            </tr>
+            <tr class="style-38">
+                <td class="style-39"><label class="style-40">Enrolment Number </label></td>
+                <td class="style-41"><label class="style-42"><b class="style-43">SOE23201010392</b></label></td>
+                <td class="style-44"><label class="style-45">Program</label></td>
+                <td class="style-46"><label class="style-47"><b class="style-48">B.TECH COMPUTER SCIENCE &amp; ENGINEERING</b></label></td>
+            </tr>
+            <tr class="style-49">
+                <td class="style-50"><label class="style-51">Semester </label></td>
+                <td class="style-52"><label class="style-53"><b class="style-54">II</b></label></td>
+                <td class="style-55"><label class="style-56">Specialization</label></td>
+                <td class="style-57"><label class="style-58"><b class="style-59"></b></label></td>
+            </tr>
+            <tr class="style-60">
+                <td class="style-61"><label class="style-62">Student Name </label></td>
+                <td class="style-63"><label class="style-64"><b class="style-65">ARYAN RAJENDRA PATIL</b></label></td>
+                <td class="style-66"><label class="style-67">Mother’s Name</label></td>
+                <td class="style-68"><label class="style-69"><b class="style-70">PALLAVI</b></label></td>
+            </tr>
+        </table><br class="style-71" /><br class="style-72" />
+        <table border="1" class="style-73">
+            <thead class="style-74">
+                <tr class="style-75">
+                    <th class="style-76">Course<br class="style-77" />Code</th>
+                    <th class="style-78">Course Title</th>
+                    <th class="style-79">Course<br class="style-80" />Credit</th>
+                    <th class="style-81">Awarded<br class="style-82" />Grade</th>
+                    <th class="style-83">Grade<br class="style-84" />Point</th>
+                    <th class="style-85">Credit<br class="style-86" />Point</th>
+                </tr>
+            </thead>
+            <tbody class="style-87">
+                <tr class="style-88">
+                    <th colspan="6" class="style-89"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Semester I</th>
+                </tr>
+                <tr class="style-90">
+                    <td class="style-91">UBTFY101</td>
+                    <td class="style-92">Linear Algebra &amp; Differential Calculus</td>
+                    <td class="style-93">4</td>
+                    <td class="style-94">
+                        <table class="style-95">
+                            <tr class="style-96">
+                                <td class="style-97">
+                                    <!---->
+                                </td>
+                                <td class="style-98"> B+</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td class="style-99">7</td>
+                    <td class="style-100">
+                        <v-if class="style-101">28</v-if>
+                    </td>
+                </tr>
+                <tr class="style-102">
+                    <td class="style-103">UBTFY103</td>
+                    <td class="style-104">Engineering Physics</td>
+                    <td class="style-105">4</td>
+                    <td class="style-106">
+                        <table class="style-107">
+                            <tr class="style-108">
+                                <td class="style-109">
+                                    <!---->
+                                </td>
+                                <td class="style-110">B</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td class="style-111">6</td>
+                    <td class="style-112">
+                        <v-if class="style-113">24</v-if>
+                    </td>
+                </tr>
+                <tr class="style-114">
+                    <td class="style-115">UBTFY105</td>
+                    <td class="style-116">Basic Electronics Engineering</td>
+                    <td class="style-117">4</td>
+                    <td class="style-118">
+                        <table class="style-119">
+                            <tr class="style-120">
+                                <td class="style-121">
+                                    <!---->
+                                </td>
+                                <td class="style-122"> B+</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td class="style-123">7</td>
+                    <td class="style-124">
+                        <v-if class="style-125">28</v-if>
+                    </td>
+                </tr>
+                <tr class="style-126">
+                    <td class="style-127">UBTFY108</td>
+                    <td class="style-128">Engg. Mechanics &amp; Civil Engg.</td>
+                    <td class="style-129">3</td>
+                    <td class="style-130">
+                        <table class="style-131">
+                            <tr class="style-132">
+                                <td class="style-133">
+                                    <!---->
+                                </td>
+                                <td class="style-134">A+</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td class="style-135">9</td>
+                    <td class="style-136">
+                        <v-if class="style-137">27</v-if>
+                    </td>
+                </tr>
+                <tr class="style-138">
+                    <td class="style-139">UBTFY109</td>
+                    <td class="style-140">Problem Solving Using C</td>
+                    <td class="style-141">2</td>
+                    <td class="style-142">
+                        <table class="style-143">
+                            <tr class="style-144">
+                                <td class="style-145">
+                                    <!---->
+                                </td>
+                                <td class="style-146">A+</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td class="style-147">9</td>
+                    <td class="style-148">
+                        <v-if class="style-149">18</v-if>
+                    </td>
+                </tr>
+                <tr class="style-150">
+                    <td class="style-151">UBTFY110</td>
+                    <td class="style-152">IT workshop</td>
+                    <td class="style-153">1</td>
+                    <td class="style-154">
+                        <table class="style-155">
+                            <tr class="style-156">
+                                <td class="style-157">
+                                    <!---->
+                                </td>
+                                <td class="style-158">O</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td class="style-159">10</td>
+                    <td class="style-160">
+                        <v-if class="style-161">10</v-if>
+                    </td>
+                </tr>
+                <tr class="style-162">
+                    <td class="style-163">UEG101E</td>
+                    <td class="style-164">Applied Technical Communication</td>
+                    <td class="style-165">2</td>
+                    <td class="style-166">
+                        <table class="style-167">
+                            <tr class="style-168">
+                                <td class="style-169">
+                                    <!---->
+                                </td>
+                                <td class="style-170">B</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td class="style-171">6</td>
+                    <td class="style-172">
+                        <v-if class="style-173">12</v-if>
+                    </td>
+                </tr>
+                <tr class="style-174">
+                    <td class="style-175">UECC101</td>
+                    <td class="style-176">Health and wellness/ Sports</td>
+                    <td class="style-177">1</td>
+                    <td class="style-178">
+                        <table class="style-179">
+                            <tr class="style-180">
+                                <td class="style-181">
+                                    <!---->
+                                </td>
+                                <td class="style-182">O</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td class="style-183">10</td>
+                    <td class="style-184">
+                        <v-if class="style-185">10</v-if>
+                    </td>
+                </tr>
+                <tr class="style-186">
+                    <th colspan="6" class="style-187"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Semester II</th>
+                </tr>
+                <tr class="style-188">
+                    <td class="style-189">UBTFY102</td>
+                    <td class="style-190">Integral Calculus &amp; Numerical Techniques</td>
+                    <td class="style-191">4</td>
+                    <td class="style-192">
+                        <table class="style-193">
+                            <tr class="style-194">
+                                <td class="style-195">
+                                    <!---->
+                                </td>
+                                <td class="style-196">A</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td class="style-197">8</td>
+                    <td class="style-198">
+                        <v-if class="style-199">32</v-if>
+                    </td>
+                </tr>
+                <tr class="style-200">
+                    <td class="style-201">UBTFY104</td>
+                    <td class="style-202">Engineering Chemistry</td>
+                    <td class="style-203">4</td>
+                    <td class="style-204">
+                        <table class="style-205">
+                            <tr class="style-206">
+                                <td class="style-207">
+                                    <!---->
+                                </td>
+                                <td class="style-208">A</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td class="style-209">8</td>
+                    <td class="style-210">
+                        <v-if class="style-211">32</v-if>
+                    </td>
+                </tr>
+                <tr class="style-212">
+                    <td class="style-213">UBTFY106</td>
+                    <td class="style-214">Basic Electrical Engineering</td>
+                    <td class="style-215">4</td>
+                    <td class="style-216">
+                        <table class="style-217">
+                            <tr class="style-218">
+                                <td class="style-219">
+                                    <!---->
+                                </td>
+                                <td class="style-220">A+</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td class="style-221">9</td>
+                    <td class="style-222">
+                        <v-if class="style-223">36</v-if>
+                    </td>
+                </tr>
+                <tr class="style-224">
+                    <td class="style-225">UBTFY107</td>
+                    <td class="style-226">Engg. Graphics</td>
+                    <td class="style-227">3</td>
+                    <td class="style-228">
+                        <table class="style-229">
+                            <tr class="style-230">
+                                <td class="style-231">
+                                    <!---->
+                                </td>
+                                <td class="style-232">B</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td class="style-233">6</td>
+                    <td class="style-234">
+                        <v-if class="style-235">18</v-if>
+                    </td>
+                </tr>
+                <tr class="style-236">
+                    <td class="style-237">UBTFY112</td>
+                    <td class="style-238">Advance C Programming</td>
+                    <td class="style-239">2</td>
+                    <td class="style-240">
+                        <table class="style-241">
+                            <tr class="style-242">
+                                <td class="style-243">
+                                    <!---->
+                                </td>
+                                <td class="style-244">A+</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td class="style-245">9</td>
+                    <td class="style-246">
+                        <v-if class="style-247">18</v-if>
+                    </td>
+                </tr>
+                <tr class="style-248">
+                    <td class="style-249">UBTFY111</td>
+                    <td class="style-250">Engg.Workshop</td>
+                    <td class="style-251">1</td>
+                    <td class="style-252">
+                        <table class="style-253">
+                            <tr class="style-254">
+                                <td class="style-255">
+                                    <!---->
+                                </td>
+                                <td class="style-256">O</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td class="style-257">10</td>
+                    <td class="style-258">
+                        <v-if class="style-259">10</v-if>
+                    </td>
+                </tr>
+                <tr class="style-260">
+                    <td class="style-261">UEG102E</td>
+                    <td class="style-262">Advance Technical Communication</td>
+                    <td class="style-263">2</td>
+                    <td class="style-264">
+                        <table class="style-265">
+                            <tr class="style-266">
+                                <td class="style-267">
+                                    <!---->
+                                </td>
+                                <td class="style-268">A</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td class="style-269">8</td>
+                    <td class="style-270">
+                        <v-if class="style-271">16</v-if>
+                    </td>
+                </tr>
+                <tr class="style-272">
+                    <td class="style-273">UIKSET101</td>
+                    <td class="style-274">Indian Knowledge System</td>
+                    <td class="style-275">1</td>
+                    <td class="style-276">
+                        <table class="style-277">
+                            <tr class="style-278">
+                                <td class="style-279">
+                                    <!---->
+                                </td>
+                                <td class="style-280">A+</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td class="style-281">9</td>
+                    <td class="style-282">
+                        <v-if class="style-283">9</v-if>
+                    </td>
+                </tr>
+            </tbody>
+        </table><br class="style-284" /><br class="style-285" />
+        <table border="1" class="style-286">
+            <thead class="style-287">
+                <tr class="style-288">
+                    <th colspan="4" class="style-289">Semester I</th>
+                    <th colspan="4" class="style-290">Semester II</th>
+                    <th colspan="4" class="style-291"> Cumulative Semester Record </th>
+                </tr>
+                <tr class="style-292">
+                    <th class="style-293">CR</th>
+                    <th class="style-294">EC</th>
+                    <th class="style-295">GP</th>
+                    <th class="style-296">SGPA</th>
+                    <th class="style-297">CR</th>
+                    <th class="style-298">EC</th>
+                    <th class="style-299">GP</th>
+                    <th class="style-300">SGPA</th>
+                    <th class="style-301">CR</th>
+                    <th class="style-302">EC</th>
+                    <th class="style-303">GP</th>
+                    <th class="style-304">CGPA</th>
+                </tr>
+            </thead>
+            <tbody class="style-305">
+                <tr class="style-306">
+                    <td class="style-307">
+                        <center class="style-308">21</center>
+                    </td>
+                    <td class="style-309">
+                        <center class="style-310">21</center>
+                    </td>
+                    <td class="style-311">
+                        <center class="style-312">64</center>
+                    </td>
+                    <td class="style-313">
+                        <center class="style-314">7.48</center>
+                    </td>
+                    <td class="style-315">
+                        <center class="style-316">21</center>
+                    </td>
+                    <td class="style-317">
+                        <center class="style-318">21</center>
+                    </td>
+                    <td class="style-319">
+                        <center class="style-320">67</center>
+                    </td>
+                    <td class="style-321">
+                        <center class="style-322">8.14</center>
+                    </td>
+                    <td class="style-323">
+                        <center class="style-324">42</center>
+                    </td>
+                    <td class="style-325">
+                        <center class="style-326">42</center>
+                    </td>
+                    <td class="style-327">
+                        <center class="style-328">131</center>
+                    </td>
+                    <td class="style-329">
+                        <center class="style-330">7.81</center>
+                    </td>
+                </tr>
+            </tbody>
+        </table><br class="style-331" /><label class="style-332"><b class="style-333"> Cumulative Result Status : <span class="style-334">PASS</span></b></label><br class="style-335" /><br class="style-336" /><b class="style-337">
+            <div class="style-338">
+                <div class="style-339"><label class="style-340">DATE : </label> 12-Jul-2024</div>
+            </div>
+            <div class="style-341"><label class="style-342">DATE : </label> 12-Jul-2024</div>
+        </b>
+        <div class="style-343"><label class="style-344"><b class="style-345">Abbreviations :</b></label><br class="style-346" />
+            <table class="style-347">
+                <tr class="style-348">
+                    <td class="style-349">O</td>
+                    <td class="style-350">O: Outstanding</td>
+                    <td class="style-351">A+</td>
+                    <td class="style-352">A+: Excellent</td>
+                    <td class="style-353">A</td>
+                    <td class="style-354">A: Very Good</td>
+                    <td class="style-355"> B+</td>
+                    <td class="style-356">B+: Good</td>
+                    <td class="style-357">B</td>
+                    <td class="style-358">B: Above Average</td>
+                </tr>
+                <tr class="style-359">
+                    <td class="style-360">C</td>
+                    <td class="style-361">C: Average</td>
+                    <td class="style-362">P</td>
+                    <td class="style-363">P: Pass</td>
+                    <td class="style-364">F</td>
+                    <td class="style-365">F: Fail</td>
+                    <td class="style-366">Ab</td>
+                    <td class="style-367">Ab: Absent</td>
+                    <td class="style-368">I</td>
+                    <td class="style-369">I: Incomplete</td>
+                </tr>
+                <tr class="style-370">
+                    <td class="style-371">(F) DE</td>
+                    <td class="style-372">(F) DE: Debarred</td>
+                </tr>
+            </table>
+        </div>
+        <div class="style-373"><label class="style-374"><b class="style-375">Abbreviations :</b></label><br class="style-376" />
+            <table class="style-377">
+                <tr class="style-378">
+                    <td class="style-379">O</td>
+                    <td class="style-380">O: Outstanding</td>
+                    <td class="style-381">A+</td>
+                    <td class="style-382">A+: Excellent</td>
+                    <td class="style-383">A</td>
+                    <td class="style-384">A: Very Good</td>
+                    <td class="style-385"> B+</td>
+                    <td class="style-386">B+: Good</td>
+                    <td class="style-387">B</td>
+                    <td class="style-388">B: Above Average</td>
+                </tr>
+                <tr class="style-389">
+                    <td class="style-390">C</td>
+                    <td class="style-391">C: Average</td>
+                    <td class="style-392">P</td>
+                    <td class="style-393">P: Pass</td>
+                    <td class="style-394">F</td>
+                    <td class="style-395">F: Fail</td>
+                    <td class="style-396">Ab</td>
+                    <td class="style-397">Ab: Absent</td>
+                    <td class="style-398">I</td>
+                    <td class="style-399">I: Incomplete</td>
+                </tr>
+                <tr class="style-400">
+                    <td class="style-401">(F) DE</td>
+                    <td class="style-402">(F) DE: Debarred</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>
